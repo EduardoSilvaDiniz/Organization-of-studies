@@ -80,5 +80,4 @@ Ethernet, PPP.
 ** entrega do Projeto
 * Algebra linear
 ** matrizes
-* Religião
-** sla
+** somatoria de matrizes linear
