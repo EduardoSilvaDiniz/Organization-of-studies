@@ -1,0 +1,84 @@
+* Rede de Computadores
+** Prova 1
+*** Introdução a Redes de Computadores
+**** Conceitos básicos
+Definição de rede, topologias barramento, estrela, anel, híbrida, tipos de redes LAN, MAN, WAN, vantagens e desvantagens das redes.
+**** Componentes de uma rede
+
+Dispositivos de rede computadores, servidores, roteadores, switches, hubs, meios de transmissão, software de rede.
+**** Arquiteturas de rede
+Cliente-servidor, par a par.
+
+*** Topologias de Redes
+1.2 Hardware de rede
+**** Tipos de topologias
+Barramento, estrela, anel, malha, árvore, híbrida.
+**** Vantagens e desvantagens de cada topologia
+Desempenho, custo, confiabilidade, escalabilidade.
+**** Aplicações de cada topologia
+Em quais cenários cada topologia é mais adequada.
+
+*** Transmissão de Informação
+2.1
+**** Conceitos básicos
+**** Modulação
+Tecnicas de modulacao AM FM PCM
+**** Multiplexação
+TDM e FDM.
+**** Códigos de linha
+Codificação de dados para transmissão NRZ, Manchester.
+
+*** Meios Físicos de Transmissão
+2.2 -> 2.4
+**** Tipos de meios
+Cabeados (par trançado, coaxial, fibra óptica), sem fio (rádio, micro-ondas, infravermelho).
+**** Características
+Velocidade, distância, custo, interferência.
+**** Aplicações
+Onde cada meio é utilizado.
+
+*** Modelo OSI da ISO
+1.4.1, 1.4.3 1.4.4
+**** As sete camadas
+Física, enlace de dados, rede, transporte, sessão, apresentação, aplicação.
+**** Funções de cada camada
+Responsabilidades de cada camada no processo de comunicação.
+**** Protocolos associados a cada camada
+Exemplos de protocolos para cada camada.
+
+*** Nível Físico e Nível de Enlace
+4.3.2
+**** Nível físico
+Codificação de sinais -> 1.4.1
+meios físicos, interfaces.
+**** Nível de enlace
+Enquadramento, detecção e correção de erros, controle de acesso ao meio (MAC).
+**** Protocolos
+Ethernet, PPP.
+
+
+
+
+** PROVA 2
+*** Nível de rede, Protocolo IP e Ligação inter-redes
+*** Nível de transporte e Protocolo TCP
+*** Nível de sessão e Nível de apresentação
+*** Nível de aplicação e Nível de aplicação TCP/IP
+*** 17/11/24 REVISÃO P2
+* Linguagens formais e automotos
+** alfabetos
+** conjuntos
+** terminais
+* Estrutura de dados
+** Arvore
+** Arvore binaria
+** Arvore AVL
+** Arvore Black-Red
+
+* programação mobile
+** dart/Flutter
+** entrega do Projeto
+* Algebra linear
+** matrizes
+* Religião
+** sla
